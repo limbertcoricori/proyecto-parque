@@ -1,0 +1,14 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+backend/.env
+ECHO est  activado.
+# Node
+frontend/node_modules/
+frontend/.env
+dist/
+ECHO est  activado.
+# OS
+.DS_Store
+Thumbs.db
